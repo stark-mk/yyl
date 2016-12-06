@@ -32,7 +32,8 @@
 
 [ ]	节假日可以酌情调休！尽量避开高峰期
 
-逃离雾霾 http://m.jinrongbaguanv.com/details/details.html?id=102269&from=singlemessage&isappinstalled=1
+[什么是工程师文化？](http://coolshell.cn/articles/17497.html)
+[逃离雾霾](http://m.jinrongbaguanv.com/details/details.html?id=102269&from=singlemessage&isappinstalled=1)
 
 
 
