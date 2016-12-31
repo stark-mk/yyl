@@ -2,23 +2,7 @@
 
 爱有引力2099（about-42）的整个创业经历过程思路都会慢慢列在这里，欢迎star和fork
 
-计划每天早上3点起床，在这个项目上工作到9点再去上班！
-
-## 招募技术团队要求：以下是我觉得理想的技术驱动型的团队应该有的待遇，大家觉得有更好想法可以提issu ;)
-
-*	上班时间随时可以睡觉！但是只能15分钟每次！
-* 办公室有很棒的新风系统！并且随时监测湿度、温度、氧气、二氧化碳含量，控制这些指标到最舒适
-*	入职配设备：MacPro(cpu顶配) + Dell27寸显示器(U2715) + Dell24寸显示器(U2414) + ipadmini4 + 站立式办公桌 + 高脚椅
-*	全员持股期权
-*	在完全熟练之前，每天除了睡觉就是健身和写代码！
-*	完全免费三餐！五星酒店自助餐级别！
-*	帮忙找女友！
-*	提供住宿，一人一间！
-*	来这里的都是希望短期财务自由的！不是混日子混工资的！
-*	每天定时定任务健身，防止猝死！
-*	节假日可以酌情调休！尽量避开高峰期
-* [什么是工程师文化？](http://coolshell.cn/articles/17497.html)
-* [逃离雾霾](http://m.jinrongbaguanv.com/details/details.html?id=102269&from=singlemessage&isappinstalled=1)
+博客查看： [https://github.com/stark-mk/yyl/issues?q=is%3Aissue+is%3Aopen+label%3Ablog](https://github.com/stark-mk/yyl/issues?q=is%3Aissue+is%3Aopen+label%3Ablog)
 
 
 
